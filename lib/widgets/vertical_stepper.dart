@@ -59,6 +59,7 @@ class VerticalStepperItem extends StatelessWidget {
     );
   }
 
+
   List<Widget> getChildren() {
     return [
       Column(
